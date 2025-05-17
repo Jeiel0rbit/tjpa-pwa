@@ -2,7 +2,7 @@
   "name": "Consulta Processual TJPA",
   "short_name": "Consulta TJPA",
   "description": "Acesso rápido à Consulta Processual Unificada do TJPA.",
-  "start_url": "/tjpa-pwa",
+  "start_url": "/tjpa-pwa.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d6efd",
